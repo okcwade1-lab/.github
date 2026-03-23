@@ -2,6 +2,8 @@
 
 > Building at the intersection of derivatives markets and machine intelligence.
 
+![Profile Views](https://komarev.com/ghpvc/?username=okcwade1-lab&color=blueviolet&style=flat-square&label=Profile+Views)
+
 ---
 
 ## 🧠 What We Build
@@ -30,7 +32,7 @@ Core trading infrastructure — data pipelines, signal generation, execution log
 Gamma exposure modeling, vanna/charm analysis, and regime-aware options strategies on SPX · XSP · /ES · /MES.
 
 ### 🟠 [Upwork-Scout](https://github.com/okcwade1-lab/Upwork-Scout)
-TypeScript automation for sourcing and tracking opportunities.
+TypeScript intelligent automation for sourcing and tracking opportunities.
 
 ---
 
